@@ -5,7 +5,7 @@ Part of the **Riddles** brand (5-app family). See brand strategy in `../PLAN.md`
 ## This App
 - **Category:** general fun riddles (broadest audience).
 - **Repo:** https://github.com/DEVENDRAP7/Riddles-fun.git
-- **Package id (planned):** `com.riddles.fun` (confirm before build).
+- **Package id (FINAL, permanent):** `com.devendrap7.riddles.fun`
 - **Accent color:** orange. Glyph: smiley.
 - **Privacy policy URL:** TBD (separate per app).
 
